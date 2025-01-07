@@ -1,6 +1,14 @@
 ## Hi there 👋
 
 I am studying at Hexlet on the Java developer course. In the future I plan to work professionally in Java development.
+
+## Tools & Technologies
+
+<p align="left">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
+
 <!--
 **DmitryCo/DmitryCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
