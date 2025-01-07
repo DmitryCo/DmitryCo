@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am studying at Hexlet on the Java developer course. In the future I plan to work professionally in Java development.
 <!--
 **DmitryCo/DmitryCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
